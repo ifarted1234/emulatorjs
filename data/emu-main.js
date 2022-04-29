@@ -5,9 +5,6 @@ window.EJS_main = function(_0xa88a13, _0x17edbf, _0x2c1832) {
         window.EJS_RESET_VARS.push(k);
     }
     _0x2c1832.r(_0x17edbf);
-    _0x2c1832(0xa2);
-    _0x2c1832(0x16c);
-    _0x2c1832(0x16d);
     var _0x39ca5e = {
             'volume': 0.5,
             'muted': false,
@@ -101,7 +98,7 @@ window.EJS_main = function(_0xa88a13, _0x17edbf, _0x2c1832) {
                 'tabFocus': 'ejs__tab-focus'
             }
         },
-        _0x3d61f9 = _0x2c1832(0x38),
+        _0x3d61f9 = '0.4.26',
         _0x5127f4 = _0x2c1832(0x9d),
         _0x48e5ff = _0x2c1832.n(_0x5127f4),
         _0x406e79 = function(_0x2aa74f) {
